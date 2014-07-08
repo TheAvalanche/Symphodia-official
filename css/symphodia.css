@@ -1,0 +1,149 @@
+body {
+	color: #d2dff0;
+	background: black;
+}
+
+body, div {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+img {
+	border: none;
+}
+
+audio {
+	margin-top: 5px;
+}
+
+td {
+	vertical-align: top;
+	padding-left: 20px;
+}
+
+hr {
+	color: #0088cc;
+	background-color: #0088cc;
+	height: 1px;
+	border: none;
+}
+
+.wrapper {
+	width: 1000px;
+	margin: 0px auto;
+	height: 100%;
+}
+
+.footer {
+	clear: both;
+	height: 84px;
+	background: url('/img/footer.jpg') top left no-repeat;
+}
+
+.navigation {
+	height: 65px;
+	background: url('/img/header_menu.jpg') top left no-repeat;
+}
+
+.navigation_list {
+	margin: 0;
+	padding: 0;
+}
+
+.navigation_list li{
+	display: inline;
+	margin-left: 40px;
+}
+
+.rotatable {
+/*transition:transform 1s;
+-webkit-transition: -webkit-transform 1s;*/
+}
+
+.rotatable:hover {
+/*transform: rotateY(360deg);
+-webkit-transform: rotateY(360deg); *//* Safari and Chrome */
+opacity:0.5;
+}
+
+.header {
+	height: 410px;
+	background: url('/img/header_logo.jpg') top left no-repeat;
+}
+
+.news_left {
+	width: 699px;
+	border-right: #0088cc solid 1px;
+	float: left;
+}
+.news_right {
+	width: 300px;
+	float: right;
+}
+
+@font-face {
+	font-family: DateFont;
+	src: url(/css/date.ttf);
+}
+
+@font-face {
+	font-family: DateFont;
+	src: url(/css/date.eot);
+}
+
+.pointerOnHover { 
+	cursor: hand; 
+	cursor: pointer; 
+}
+
+.tabText {
+	width: 600px;
+}
+
+.side_links {
+	position: relative;
+	left: 50px;
+}
+
+.hidden {
+	display:none;
+}
+
+.date {
+	font-family: DateFont;
+	font-size: 20px;
+	color: #0088CC;
+}
+
+.album_table {
+	width: 100%;
+}
+
+.album_description {
+	padding-left: 100px; 
+	padding-right: 50px; 
+	text-align: right;
+}
+
+.group_table {
+	width: 100%;
+}
+
+.group_right_content {
+	text-align: justify;
+	width: 500px;
+	margin-left: 50px;
+}
+
+.group_left_content {
+	text-align: justify;
+	width: 500px;
+}
+
+.group_table img {
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+

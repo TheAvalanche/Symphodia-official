@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://symphodia.p.ht/</loc>
+  <lastmod>2013-07-11T10:48:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://symphodia.p.ht/index.php</loc>
+  <lastmod>2013-07-11T10:48:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://symphodia.p.ht/group.php</loc>
+  <lastmod>2013-07-11T10:48:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://symphodia.p.ht/music.php</loc>
+  <lastmod>2013-07-11T10:48:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://symphodia.p.ht/contacts.php</loc>
+  <lastmod>2013-07-11T10:48:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://symphodia.p.ht/album.php?id=1</loc>
+  <lastmod>2013-07-11T10:48:42+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>
